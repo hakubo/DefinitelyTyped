@@ -29,7 +29,7 @@
     "help": "node ./_infrastructure/runner.js -h"
   },
   "dependencies": {
-    "definition-tester": "~0.0.4"
+    "definition-tester": "~0.3.0"
   },
   "devDependencies": {}
 }
